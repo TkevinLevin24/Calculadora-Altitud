@@ -1,26 +1,6 @@
 # **Calculadora TPD altitud**
 Este proyecto es basado en un tema de Aerodinamica de la universidad.
  
-<div class="plane"></div>
-.plane {
-  width: 60px;
-  height: 20px;
-  position: relative;
-  background-color: #555;
-  animation: move-plane 3s infinite;
-}
-
-@keyframes move-plane {
-  0% {
-    left: 0;
-  }
-  50% {
-    left: calc(100% - 60px);
-  }
-  100% {
-    left: 0;
-  }
-}
 
 
 
